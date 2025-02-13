@@ -1,0 +1,13 @@
+## Requirement List for the project.
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+xgboost
+Rapid Miner
+AWS 
+Hadoop
+Hive
