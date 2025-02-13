@@ -1,0 +1,9 @@
+## This is a requirements file
+
+numpy
+pandas
+matplotlib
+plotly
+seaborn
+scikit-learn
+xgboost
