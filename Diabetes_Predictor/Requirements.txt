@@ -1,0 +1,8 @@
+## This is a requirements file
+
+pandas
+numpy
+seaborn
+matplotlib
+statsmodels
+scikit-learn
