@@ -1,0 +1,8 @@
+## This is a requirements file
+
+google-colab
+pandas
+matplotlib
+scikit-learn
+statsmodels
+kepler.gl 
